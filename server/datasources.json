@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "transient": {
+    "name": "transient",
+    "connector": "transient"
+  },
+  "mongoDb": {
+    "name": "mongoDb",
+    "connector": "loopback-connector-mongodb",
+    "url": "mongodb://dsbhalala:sweetrox5288@ds057214.mlab.com:57214/crm"
+  }
+}
